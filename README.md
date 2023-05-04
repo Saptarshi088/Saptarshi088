@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Saptarshi088
 - 👀 I’m interested in Computer science.
-- 🌱 I’m currently learning CSE from Meghgnad Saha Institute of Technology.
-- 📫 How to reach me Twitter: https://twitter.com/Saptarshi_Arun
+- 🌱 I’m currently persuing a career in  Computer Science and Engineering  from Meghgnad Saha Institute of Technology.
+- 📫 How to reach me 
+  Twitter: https://twitter.com/Saptarshi_Arun
                     Instagram: https://www.instagram.com/saptarshibiswas7/
                     LinkedIN: https://www.linkedin.com/in/saptarshi-biswas-65a054b5/
 
