@@ -16,7 +16,7 @@ class Developer:
     def __init__(self):
         self.name = "Saptarshi Sundar Biswas"
         self.role = "Full Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "C++", "Bengali", "English"]
+        self.language_spoken = ["Java", "Python", "JavaScript", "Bengali", "English"]
         self.current_focus = "Building scalable web applications"
         self.hobbies = ["Coding", "Problem Solving", "Learning New Tech"]
     
@@ -32,9 +32,8 @@ me.say_hi()
 <div align="center">
 
 ### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend Development
