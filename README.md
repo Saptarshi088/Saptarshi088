@@ -1,61 +1,81 @@
-# 💻 Saptarshi Sundar Biswas
+# 👋 Hi, I'm Saptarshi Sundar Biswas
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Craftsman;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Building+Scalable+Systems;Problem+Solver;Spring+Boot+Enthusiast)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=saptarshi088&label=Profile%20Views&color=00d9ff&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/saptarshi088?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/saptarshi088)
   
 </div>
 
-## 🚀 About Me
+## 🎓 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Saptarshi Sundar Biswas"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["Java", "Python", "JavaScript", "Bengali", "English"]
-        self.current_focus = "Building scalable web applications"
-        self.hobbies = ["Coding", "Problem Solving", "Learning New Tech"]
+```java
+public class Developer {
+    private String name = "Saptarshi Sundar Biswas";
+    private String role = "Java Backend Developer";
+    private String education = "B.Tech (CSE) - MSIT Kolkata";
+    private double cgpa = 8.74;
+    private String[] expertise = {"Spring Boot", "RESTful APIs", "JPA/Hibernate", "PostgreSQL"};
+    private String currentFocus = "Building enterprise-grade backend systems";
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        
-me = Developer()
-me.say_hi()
+    public void introduce() {
+        System.out.println("Backend developer passionate about creating robust, scalable applications!");
+        System.out.println("Let's connect and build something amazing together 🚀");
+    }
+}
 ```
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
 
-### Programming Languages
+### Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Additional Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+## 💼 Featured Projects
+
+### 🏥 Hospital Management System
+**Tech Stack:** Java | Spring Boot | Spring Data JPA | Hibernate | PostgreSQL | REST APIs
+
+- Designed and developed a comprehensive backend system managing patients, doctors, appointments, and insurance
+- Implemented RESTful APIs with DTO mapping, validation, and robust exception handling
+- Optimized database queries using JPA fetch joins and proper entity relationships
+- Applied layered architecture (Controller → Service → Repository) for clean code structure
+
+### 🛒 E-Commerce Store Application
+**Tech Stack:** Java | Spring Boot | Spring Security | JPA | MySQL
+
+- Built a complete e-commerce backend with user management, product catalog, and order processing
+- Implemented role-based authentication and authorization using Spring Security
+- Designed normalized MySQL schema with transactional consistency using JPA dirty checking
+- Created REST APIs for order placement, stock validation, and order history
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saptarshi088&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -66,7 +86,13 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshi088&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Problem Solving
+
+- 🎯 **300+ problems** solved across LeetCode, GeeksforGeeks, and HackerRank
+- 🏅 **Top 12%** globally on LeetCode
+- 💯 **100-day coding challenge** completed with consistent daily problem-solving
+- 📚 Strong foundation in **DSA**: Arrays, Strings, Linked Lists, Stacks, Hashing
+- ⚡ Focus on **time and space complexity optimization**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saptarshi088&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
@@ -78,39 +104,62 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshi088&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## 🎯 Current Objectives
+## 🎯 Current Focus
 
-- 🔭 Working on **full-stack web applications**
-- 🌱 Learning **cloud technologies** and **DevOps practices**
-- 👯 Looking to collaborate on **open source projects**
-- 🤔 Exploring **machine learning** and **AI technologies**
-- 💬 Ask me about **Python, React, Django, or anything tech-related**
-- ⚡ Fun fact: **I debug with console.log more than I'd like to admit**
+- 🔨 Building production-ready Spring Boot applications
+- 📖 Deepening knowledge in **System Design** and **Microservices Architecture**
+- 🐳 Exploring **Docker** and **Kubernetes** for containerization
+- ☁️ Learning **AWS** for cloud deployment
+- 🤝 Open to collaborating on **backend projects** and **open source contributions**
+
+## 🎓 Education
+
+**Bachelor of Technology (Computer Science & Engineering)**  
+Meghnad Saha Institute of Technology, Kolkata  
+CGPA: **8.74/10** | Year: 2024
+
+## 💡 Core Competencies
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- RESTful API Design & Development
+- Spring Framework Ecosystem
+- Version Control with Git
+- Agile Development Practices
 
 ## 🤝 Let's Connect
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-biswas-43500727b)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saptarshi088)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saptarshibiswas6@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/saptarshi088)
   
 </div>
 
-## 💭 Quote
+## 💭 Developer Quote
 
 <div align="center">
   
-  *"The best way to predict the future is to create it."* - Peter Drucker
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
   
 </div>
+
+## 🎵 Beyond Code
+
+When I'm not coding, you'll find me:
+- 🎵 Listening to music
+- 🚴 Cycling around the city
+- 📚 Exploring new backend technologies
+- 🏗️ Learning about system design patterns
 
 ---
 
 <div align="center">
   
-  **✨ Thanks for visiting my profile! Have a great day! ✨**
+  **✨ Thanks for visiting! Let's build something awesome together! ✨**
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=saptarshi088&label=VISITORS&countColor=%2300d9ff)
   
